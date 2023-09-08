@@ -24,7 +24,7 @@
                 <ul class="nav-ul hide-ul">
                     <li><a id="mode_btn" class="nav-link mode-color" href="#"><i class="fa fa-moon-o"></i></a>
                     </li>
-                    <li><a class="nav-link mode-color" href="#">About</a></li>
+                    <li><a class="nav-link mode-color" href="https://github.com/arafat-web">About</a></li>
                     <li><a class="nav-link mode-color" href="#">Github</a></li>
                 </ul>
             </nav>
@@ -54,7 +54,7 @@
         </div>
     </div>
     <div class="footer mode-color">
-        Made with <i class="fa-solid fa-heart"></i> by <a href="http://" target="_blank" rel="noopener noreferrer">Arafat Hossain Ar</a>
+        Made with <i class="fa-solid fa-heart"></i> by <a href="https://github.com/arafat-web" target="_blank" rel="noopener noreferrer">Arafat Hossain Ar</a>
     </div>
     <script src="https://kit.fontawesome.com/24907615ba.js" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
