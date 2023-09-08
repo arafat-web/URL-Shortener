@@ -46,7 +46,7 @@
         </form>
         <div class="output-area">
             <div id="output" class="output">
-                <!-- dolor sit amet consectetur -->
+                https://url_shortener.test/juEx26
             </div>
             <span id="copy" class="icon">
                 <i class="fa fa-copy"></i>
