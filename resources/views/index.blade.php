@@ -25,7 +25,7 @@
                     <li><a id="mode_btn" class="nav-link mode-color" href="#"><i class="fa fa-moon-o"></i></a>
                     </li>
                     <li><a class="nav-link mode-color" href="https://github.com/arafat-web">About</a></li>
-                    <li><a class="nav-link mode-color" href="#">Github</a></li>
+                    <li><a class="nav-link mode-color" href="https://github.com/arafat-web/URL-Shortener">Github</a></li>
                 </ul>
             </nav>
         </div>
